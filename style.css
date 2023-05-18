@@ -25,3 +25,20 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+header img{
+    margin-left: 50px;
+}
+nav{
+    margin-right: 50px;
+}
+nav a{
+    margin: 0 30px;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: bolder;
+    color: black;
+}
+main{
+    background: #84ffff;
+    grid-area: main;
+}
